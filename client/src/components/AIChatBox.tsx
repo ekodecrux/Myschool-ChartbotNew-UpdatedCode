@@ -129,7 +129,7 @@ export function AIChatBox({
   // Filter out system messages
   const displayMessages = messages.filter((msg) => msg.role !== "system");
 
-  // Calculate min-height for last assistant message to push user message to top
+  // Calculate min-height for last message to push user message to top
   const [minHeightForLastMessage, setMinHeightForLastMessage] = useState(0);
 
   useEffect(() => {
