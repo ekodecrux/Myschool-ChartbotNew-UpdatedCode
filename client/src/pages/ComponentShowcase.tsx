@@ -1391,9 +1391,9 @@ export default function ComponentsShowcase() {
             </Card>
           </section>
 
-          {/* AI ChatBox Section */}
+          {/* ChatBox Section */}
           <section className="space-y-4">
-            <h3 className="text-2xl font-semibold">AI ChatBox</h3>
+            <h3 className="text-2xl font-semibold">ChatBox</h3>
             <Card>
               <CardContent className="pt-6">
                 <div className="space-y-4">
