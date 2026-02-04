@@ -1,14 +1,12 @@
 # Environment files
 .env
-.env.*
-*.env
 client/.env
 
 # Dependencies
 node_modules/
 
-# Build outputs
-dist/
+# Build outputs  
+# dist/
 
 # OS files
 .DS_Store
