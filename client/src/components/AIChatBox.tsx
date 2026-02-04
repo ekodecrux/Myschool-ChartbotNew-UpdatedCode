@@ -28,7 +28,7 @@ export type AIChatBoxProps = {
   onSendMessage: (content: string) => void;
 
   /**
-   * Whether the AI is currently generating a response
+   * Whether the system is currently generating a response
    */
   isLoading?: boolean;
 
