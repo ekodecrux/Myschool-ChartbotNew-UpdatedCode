@@ -20,7 +20,7 @@ const tutorialSteps = [
   },
   {
     title: "Image Analysis 📸",
-    description: "Upload images of textbook pages, worksheets, or diagrams. The AI will analyze them and suggest relevant MySchool resources.",
+    description: "Upload images of textbook pages, worksheets, or diagrams. The system will analyze them and suggest relevant MySchool resources.",
     image: "🖼️",
   },
   {
