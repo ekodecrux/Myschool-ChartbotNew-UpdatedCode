@@ -60,7 +60,7 @@ export type AIChatBoxProps = {
 };
 
 /**
- * A ready-to-use AI chat box component that integrates with the LLM system.
+ * A ready-to-use chat box component that integrates with the LLM system.
  *
  * Features:
  * - Matches server-side Message interface for seamless integration
