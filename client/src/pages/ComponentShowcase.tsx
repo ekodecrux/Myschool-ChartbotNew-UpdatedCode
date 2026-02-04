@@ -214,7 +214,7 @@ export default function ComponentsShowcase() {
     const newMessages: Message[] = [...chatMessages, { role: "user", content }];
     setChatMessages(newMessages);
 
-    // Simulate AI response with delay
+    // Simulate response with delay
     setIsChatLoading(true);
     setTimeout(() => {
       const aiResponse: Message = {
